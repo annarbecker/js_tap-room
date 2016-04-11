@@ -5,7 +5,8 @@
 #### By Anna Becker & Matt Rosanio
 
 ## Description
-A Angular app that a bar could use to keep track of their kegs.
+An Angular app that a bar could use to keep track of their kegs.
+
 The user can:
 * Fill out a form when they tap a new keg which is then displayed in a list.
 * See what kegs are available. For each keg, the user can see its name, brand, price and alcohol content.
