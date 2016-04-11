@@ -14,7 +14,7 @@ The user can:
 * The user can see all the kegs that have less than 10 pints left.
 * The user can edit a keg's properties after entering them.
 * The kegs are color coded to show at a glance if they are cheap or expensive.
-* The alcohol content property of the beer is used to display stronger beers differently than weaker beers - multiples of beer icons correlate to the beer's alcohol contet.
+* The alcohol content property of the beer is used to display stronger beers differently than weaker beers - multiples of beer icons correlate to the beer's alcohol content.
 * The site includes a bar side where the user can order kegs and keep track of revenue.
 
 ## Setup/Installation Requirements
