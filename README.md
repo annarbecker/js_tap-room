@@ -1,6 +1,6 @@
 ## Tap Room
 
-#### Website to for a bar to keep track of kegs on tap | March 23, 2016
+#### Website for a bar to keep track of kegs on tap in AngularJS | March 23, 2016
 
 #### By Anna Becker & Matt Rosanio
 
